@@ -1,10 +1,10 @@
 ### Hi this Slmie👋
 
-<p align="center">这是第<img src="https://profile-counter.glitch.me/Slmie/count.svg" />次访问</p>
+<p align="center">这是第<img src="https://profile-counter.glitch.me/Canary233/count.svg" />次访问</p>
 
-[![Slmie's github stats](https://github-readme-stats.vercel.app/api?username=Slmie)](https://github.com/Slmie)
+[![Canary233's github stats](https://github-readme-stats.vercel.app/api?username=Canary233)](https://github.com/Canary233)
 <!--
-**Slmie/Slmie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Canary233/Canary233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
