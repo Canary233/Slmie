@@ -1,7 +1,5 @@
 ### Hi this Canary233👋
 
-<p align="center">这是第<img src="https://profile-counter.glitch.me/Canary233/count.svg" />次访问</p>
-
 [![Canary233's github stats](https://github-readme-stats.vercel.app/api?username=Canary233)](https://github.com/Canary233)
 <!--
 **Canary233/Canary233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
